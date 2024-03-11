@@ -1,10 +1,10 @@
 # Data_structures
 Welcome to the repository for the Data Structures course laboratories! This repository contains the implementation of four laboratory exercises designed to reinforce your understanding of fundamental data structures and their applications.
 
-## 🗂️Lab 1
+### 🗂️Lab 1
 In this laboratory I implemented an ADT SortedSet that represents a set of elements of type 'TComp', sorted using a specified relation on the elements. The implementation utilizes a dynamic array to store the elements.
 
-## 🗂️Lab 2
+#### 🗂️Lab 2
 This laboratory focuses on creating an ADT Priority Queue. It is implemented using a singly linked list (SLL) to store (element, priority) pairs, ordered according to a specified relation between the priorities.
 
 ## 🗂️Lab 3
