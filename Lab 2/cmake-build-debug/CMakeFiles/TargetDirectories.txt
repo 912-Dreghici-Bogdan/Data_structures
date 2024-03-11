@@ -1,0 +1,3 @@
+D:/Faculta/Semestrul_2/Structuri de date si algoritmi/Trial 2 of lab 2/cmake-build-debug/CMakeFiles/Trial_2_of_lab_2.dir
+D:/Faculta/Semestrul_2/Structuri de date si algoritmi/Trial 2 of lab 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Faculta/Semestrul_2/Structuri de date si algoritmi/Trial 2 of lab 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
